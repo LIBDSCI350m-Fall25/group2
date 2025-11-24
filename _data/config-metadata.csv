@@ -13,3 +13,7 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+cataloger,Cataloger
+address,Web Address,,true
+citation,Citation
+structure,Structure,true
