@@ -9,7 +9,7 @@ permalink: /dmpplan.html
 
 This is my data management plan for my Library Science Class. 
 
-[This is a link to my metadata application profile.](objects/map.pdf)
+[This is a link to my metadata application profile.](objects/group2_map.pdf)
 
 1. pencil
 2. eraser
