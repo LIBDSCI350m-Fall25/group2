@@ -22,12 +22,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Native American Art of Oregon
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: collection of art made by Native Americans in the Oregon or greater Pacific Northwest area
+tagline: Collection of art made by Native Americans in the Oregon or greater Pacific Northwest area
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Collection created for the DSCI/LIB 350M course at the University of Oregon. The topic of the collection is Native Americans in Oregon and the theme is centered on the artistic creations of these peoples."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Conner Birdwell; Quinn Enyart; Hunter Everton; Anna Wallin
+author: Conner Birdwell; Quinn Enyart; David Horwitz; Hunter Everton; Anna Wallin
 
 ##########
 # COLLECTION SETTINGS
