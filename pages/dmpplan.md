@@ -5,7 +5,8 @@ permalink: /dmpplan.html
 ---
 
 # Data Management Plan
-Group 2 (Conner Birdwell, Quinn Enyart, Hunter Everton, David Horwitz, Anna Wallin)
+
+## Group 2 (Conner Birdwell, Quinn Enyart, Hunter Everton, David Horwitz, Anna Wallin)
 
 ### Project Description
 
