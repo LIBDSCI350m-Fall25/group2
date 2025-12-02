@@ -52,12 +52,11 @@ Do you plan on archiving your data in an external repository? (This is not a req
 
 ### Period of Data Retention
 
-This section should address how long your group plans to maintain each component of the project before and after it has been submitted for grading.
-If you plan to maintain the project after the term ends, what is your contingency plan if a component of the project goes down?
+Hunter Everton (and potentially others) will check any issues raised or pull requests made after December 2025, if any of the objects are missing then please raise an issue or create a pull request on the Github repository.
 
 ### Licensing and Ethical Issues
 
-Use this section to outline the intellectual property rights of your created material.  What are the terms under which others may use these materials? If your data and products raise any potential ethics issues, use this section to address those matters.
+For licensing all of the objects we have collected and organized are either in the public domain, or, the GLAM did their own rights analysis on the object and found no known copyright restrictions. For ethical considerations we believe as a group that the objects should be cited according to MLA or some other guidelines even if the object is in the public domain.
 
 ### Appendix: Data Dictionary
 
