@@ -14,13 +14,17 @@ This digital collection is focused on the topic of Native Americans in the conte
 
 For our project we used Github sheets and the CollectionBuilder template to create our project website. Many of the documents and our metadata we organized and created through a shared Google drive using the various programs Google offers, like Google docs for creating documents, Google sheets for creating spreadsheets, and Google slides for creating presentations.
 
-Our collection has a couple of groups or audiences that would be interested in reusing our collection. Those being Native Americans, researchers such as anthropologists or art historians, and anyone from the general public interested in these images. Our collection is a benefit to these groups as we have synthesized objects from different GLAMs which could act as the beginning to a bigger project collecting all artistic objects created by Native Americans in Oregon and the surrounding Pacific Northwest.
-
-This should include a brief description of the technology (CollectionBuilder, GitHub, Sheets) you're using, your research topic, how your project benefits your audience, and anything else exciting you want to share. Unlike your topic description, this should be a short summary of the technical aspects of the project.
+Our collection has a couple of groups or audiences that would be interested in reusing our collection, those being Native Americans, researchers such as anthropologists or art historians, and anyone from the general public interested in these images. Our collection is a benefit to these groups as we have synthesized objects from different GLAMs which could act as the beginning to a bigger project collecting all artistic objects created by Native Americans in Oregon and the surrounding Pacific Northwest.
 
 ### Roles and Responsibilities
 
-Explain how data management responsibilities are coordinated across your group. Partner names are not required on the final DMP assignment because the GitHub page is technically public.
+| Group Member | Role | Responsibilities |
+|--------------|------|------------------|
+| Quinn | Project Manager | Quinn was responsible for managing the Google Drive folder, leading and coordinating communication, and submitting all our group projects. |
+| David | Collection Development Manager | David made the final call about what would be included in the collection and led the research topic selection and scope definition. |
+| Hunter | Object Preservation Manager | Hunter was responsible for overseeing the storage space and documents folder, establishing the collection's file naming standard, and ensuring backup copies are available. |
+| Anna | Metadata Manager | Anna was responsible for managing the spreadsheet and ensuring our metadata follows the Dublin Core and CollectionBuilder requirements. |
+| Conner | Repository Manager | Conner was responsible for taking notes at our meetings, leading technical troubleshooting, and managed our GitHub repository. |
 
 ### Anticipated Data
 
@@ -56,6 +60,28 @@ If you plan to maintain the project after the term ends, what is your contingenc
 Use this section to outline the intellectual property rights of your created material.  What are the terms under which others may use these materials? If your data and products raise any potential ethics issues, use this section to address those matters.
 
 ### Appendix: Data Dictionary
+
+| Field | Definition |
+|-------|------------|
+| objectid | A unique string with no spaces or special characters that will be used as an ID in the website. Records without an objectid will not be displayed in the collection. Records with non-unique objectid will be overwritten. |
+| title | A name given to the resource. |
+| date | A point or period of time associated with an event in the lifecycle of the resource. |
+| description | An account of the resource. |
+| subject | The topic of the resource. |
+| location | A geographic location to which the resource applies. |
+| source | The source field designates a related source collection or resource from which the object is derived. This field is especially relevant for digitized archival collections. In such a situation, the name of the physical archival collection would be the input for this field. |
+| identifier | An unambiguous reference to the resource within a given context. |
+| type | Distinguishes between types of image, sound, text, etc. using a one- or two-value input. |
+| format | The digital file format of the resource or media type. |
+| rights | Information about rights held in and over the resource. |
+| rightsstatement | A standardized rights statement, presented as a creativecommons.org URI or rightsstatements.org URI |
+| display_template | Sets the template type used for the Item page and is used in logic to choose representations in other pages. If blank the object will default to a generic item page. |
+| image_alt_text | An appropriate textual description of the image_small representation of the item. The alt text corresponds to the image_small (not necessarily the file at object_location). This value will be used as the “alt” value of the image element, which is important for accessibility. |
+| address | The web address to the object in the GLAM. |
+| cataloger | The group member that input the object's metadata. |
+| citation | MLA citation of the object. |
+| filename | This is the digital object's filename, including the name itself as well as the object's file extension. For externally hosted items, this may be a full URL. |
+| structure | A metadata field our group created in order to have a more general category for objects to fit into. |
 
 Your data dictionary is a key to your metadata. It is organized as a table documenting fields in your group’s CollectionBuilder spreadsheet.
 Your data dictionary should have as many items as used fields in your CollectionBuilder metadata spreadsheet.
