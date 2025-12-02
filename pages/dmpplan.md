@@ -1,6 +1,6 @@
 ---
 title: Data Management Plan
-layout: about
+layout: page-full-width
 permalink: /dmpplan.html
 ---
 
