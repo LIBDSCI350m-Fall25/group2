@@ -28,6 +28,8 @@ Our collection has a couple of groups or audiences that could be interested in r
 
 ## Data
 
+### Standards and formats
+
 We have 24 objects, all of them are stored as jpg/jpeg files, and in total take up 12.6 mb of disk space.
 
 ### License
@@ -36,15 +38,17 @@ Our project is licensed under the MIT license as open-source software.
 
 ### Documentation and Metadata
 
-The metadata is located in the data section of the website and is available on the Github repository. The data can be downloaded from either of these locations in csv format. The definition for each metadata field is in the data dictionary at the end of this page and in the Metadata Application Profile provided at the beginning of this page.
+Our metadata application profile can be found [here](/objects/group2_map.pdf).
+
+The metadata for each object is located in the data section of the website and is available on the Github repository. The data can be downloaded from either of these locations in csv format. The definition for each metadata field is in the data dictionary at the end of this page and in the Metadata Application Profile provided earlier.
 
 ### Storage and Backup
 
-Our project is stored on a Google drive shared amongst our group. The code for the website is stored in a Github repository and hosted on Github sheets. We also have the github repository cloned as a local git repository on one of our group member's computer.
+Our project is stored on a Google drive shared amongst our group. The code for the website is stored in a Github repository and hosted on Github sheets. We also have the github repository cloned as a local git repository on a group member's computer.
 
 ### Data Sharing
 
-As mentioned the data is shared through the Github repository and the website. The data used for this project may be used freely under the MIT license, and the objects can be used with proper attribution to the source GLAM.
+As mentioned, the data is shared through the Github repository and the website. The data used for this project may be used freely under the MIT license, and the objects can be used with proper attribution to the source GLAM. We have given citations for our project so we recommend using those for documentation of the objects, should they be used in another project.
 
 ### Period of Data Retention
 
