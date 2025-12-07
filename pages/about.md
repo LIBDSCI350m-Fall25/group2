@@ -10,11 +10,10 @@ credits: true
 
 {% include feature/jumbotron.html objectid="{% include feature/jumbotron.html objectid="drawing_01_oregon_1855" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
-**Collection Description:** Our digital collection is focused on the topic of Native Americans in the contemporary state of Oregon and the greater Pacific Northwest. Our collection is themed around artworks created by Natives among various tribes in these areas with the main goal of amplifying their voices and perspectives. Our perceived main audience is Native groups who could use this to support cultural preservation or community education about their prominence and presence in the Pacific Northwest. Another intended audience for this collection is researchers such as anthropologists, art historians, or historians who are interested in analyzing Native art or focused on re-patriation of Native objects. 
+**Collection Description:**
+Our digital collection is focused on the topic of Native Americans in the contemporary state of Oregon and the greater Pacific Northwest. Our collection is themed around artworks created by Natives among various tribes in these areas with the main goal of amplifying their voices and perspectives. Our perceived main audience is Native groups who could use this to support cultural preservation or community education about their prominence and presence in the Pacific Northwest. Another intended audience for this collection is researchers such as anthropologists, art historians, or historians who are interested in analyzing Native art or focused on re-patriation of Native objects. 
 
 **Course:** Humanities Research Data Management (DSCI/LIB 350M) at University of Oregon
 
