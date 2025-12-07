@@ -30,6 +30,7 @@ credits: true
 - Oregon Historical Society Research Library
 
 **Project Team and Responsibilities:**
+
 **Quinn Enyart**, _Project Manager_: As project manager, Quinn was responsible for facilitating communication within our group and with the instructor. She coordinated our team meetings and progress checks via Google Teams. Quinn also managed our Google Drive, helping create our deliverables: metadata sheet, group progress report, data management, and final presentation. 
 
 **David Horwitz**, _Collection Development Manager_: As Collection Development Manager, David approved the 24 objects that made up our digital collection. David helped our group narrow down our scope to Native tribes in the greater Pacific Northwest area. Additionally, David helped each of us confirm that each selected file met the correct format and quality standards. 
@@ -42,8 +43,6 @@ credits: true
 
 **Acknowledgements:** Our group would like to give a shoutout to our amazing instructor, Kate Thorhill, for her guidance during this project. She taught us all about metadata standards, copyright information, how to navigate GitHub, among many other skills that we used throughout this project. Kate provided patience and assistance whenever we had questions about our collection. We would also like to thank the librarians and curators of the digital objects that provided a great base of information and beautiful objects to reference. 
 
-
 **Ownership Statement:** Please note that we are not the owners of any of the objects in this collection. First and foremost, the Native tribes were the creators of the objects. If you have questions about the use of these objects, please look at our citations and reach out to the original curators of the item. 
-
 
 {% include cb/about_the_about.md %} 
