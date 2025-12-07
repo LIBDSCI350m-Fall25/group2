@@ -17,8 +17,11 @@ credits: true
 **Collection Description:** Our digital collection is focused on the topic of Native Americans in the contemporary state of Oregon and the greater Pacific Northwest. Our collection is themed around artworks created by Natives among various tribes in these areas with the main goal of amplifying their voices and perspectives. Our perceived main audience is Native groups who could use this to support cultural preservation or community education about their prominence and presence in the Pacific Northwest. Another intended audience for this collection is researchers such as anthropologists, art historians, or historians who are interested in analyzing Native art or focused on re-patriation of Native objects. 
 
 **Course:** Humanities Research Data Management (DSCI/LIB 350M) at University of Oregon
+
 **Date of Course:** Fall 2025
+
 **Instructor:** Kate Thornhill
+
 **Galleries, Libraries, Archives, Museums (GLAMs) Used:** 
 - The Portland Art Museum
 - Hallie Ford Museum of Art
