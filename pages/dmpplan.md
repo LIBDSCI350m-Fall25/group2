@@ -3,11 +3,8 @@ title: Data Management Plan
 layout: about
 permalink: /dmpplan.html
 ---
-
 # Data Management Plan
-
 ## Group 2 
-
 ## Project Description
 
 This digital collection is focused on the topic of Native Americans in the contemporary state of Oregon and general Pacific Northwest region. The collection is themed around artworks created by Natives among various tribes in these areas. The goal is to show their creativity and cultural traditions in a way that reflects their voices and perspectives. The artwork presented comes from various media, from textiles to wooden sculptures and pencil sketches. The topic of Native Americans in Oregon was due to the personal connection some of our group members have to Native American communities out East. 
@@ -20,7 +17,6 @@ Our process for documenting an object included downloading the digital object af
 
 All project data and metadata are stored in CSV files within the GitHub repository, making them freely accessible online through version-controlled, openly available source files. 
 Our collection has a couple of groups or audiences that could be interested in reusing our collection, those being Native Americans, researchers such as anthropologists or art historians, and anyone from the general public interested in these images. Our collection is a benefit to these groups as we have synthesized objects from different GLAMs which could act as the beginning to a bigger project collecting all artistic objects created by Native Americans in Oregon and the surrounding Pacific Northwest.
-
 
 ## Roles and Responsibilities
 
@@ -127,10 +123,11 @@ Hunter Everton, the Object Preservation Manager, will check any issues raised or
 For licensing, all of the objects we have collected and organized are either in the public domain, or, the GLAM did their own rights analysis on the object and found no known copyright restrictions. We encourage those who would like to use our objects to visit the GLAM's' website which we have cited. For ethical considerations we believe as a group that the objects should be cited according to MLA or some other guidelines even if the object is in the public domain. Moreover, another ethical consideration is that the objects were created by Native groups. We believe that the rightful owners of many of these objects are the actual tribe from which they originate. Re-patriation is a topic that we are continuing to expand our knowledge about, and our digital collection aims to shed light on Native art without claiming any sort of ownership over the art. 
 
 ## Data Dictionary
+
 | Field | Definition |
 |-------|------------|
-| objectid | A unique string with no spaces or special characters that will be used as an ID in the website. Records without an objectid will not be displayed in the collection. Records with non-unique objectid will be overwritten. |
-| title | A name given to the resource. |
+| objectid | A unique string with no spaces or special characters that will be used as an ID in the website. Records without an objectid will not be displayed in the collection. Records with non-unique objectid will be overwritten.|
+| title | A name given to the resource.|
 | date | A point or period of time associated with an event in the lifecycle of the resource. |
 | description | An account of the resource. |
 | subject | The topic of the resource. |
