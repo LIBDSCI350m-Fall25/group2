@@ -10,21 +10,27 @@ permalink: /dmpplan.html
 
 ## Project Description
 
-This digital collection is focused on the topic of Native Americans in the contemporary state of Oregon and general Pacific Northwest region. The collection is themed around artworks created by Natives among various tribes in these areas. The goal is to show their creativity and cultural traditions in a way that reflects their voices and perspectives. The artwork presented comes from various media, from textiles to wooden sculptures and pencil sketches. The topic of Native Americans in Oregon was due to the personal connection some of our group members have to Native American communities out East. We chose to theme our collection around Native art as we felt that documentation of Native American history and their lives has been centered on the colonial documenters rather than the Native Americans being documented themselves. In many museum exhibits or history projects, Native Americans are often presented through the eyes of outsiders. We thought that collecting the objects of Native Americans directly centers the Native Americans themselves and let the objects they created speak for themselves. The GLAMs that we have used for our collection so far include: The Portland Art Museum, Hallie Ford Museum of Art, The Metropolitan Museum of Art, and the University of Oregon Museum of Natural and Cultural History.
+This digital collection is focused on the topic of Native Americans in the contemporary state of Oregon and general Pacific Northwest region. The collection is themed around artworks created by Natives among various tribes in these areas. The goal is to show their creativity and cultural traditions in a way that reflects their voices and perspectives. The artwork presented comes from various media, from textiles to wooden sculptures and pencil sketches. The topic of Native Americans in Oregon was due to the personal connection some of our group members have to Native American communities out East. 
 
-For our project we used Github sheets and the CollectionBuilder template to create our project website. Many of the documents and our metadata we organized and created through a shared Google drive using the various programs Google offers, like Google docs for creating documents, Google sheets for creating spreadsheets, and Google slides for creating presentations.
+We chose to theme our collection around Native art as we felt that documentation of Native American history and their lives has been centered on the colonial documenters rather than the Native Americans being documented themselves. In many museum exhibits or history projects, Native Americans are often presented through the eyes of outsiders. We thought that collecting the objects of Native Americans directly centers the Native Americans themselves and let the objects they created speak for themselves. 
 
+The objects collected in this project were found in various GLAMs, including: The Portland Art Museum, Hallie Ford Museum of Art, The Metropolitan Museum of Art, the Oregon Historical Society Museum, and the Oregon Historical Society Research Library. Each group member was responsible for documenting at least 4 objects. 
+
+Our process for documenting an object included downloading the digital object after following relevant copyright standards, then documenting its DublinCore metadata elements into a Google Sheet within our group’s shared Google Drive folder. Once we all added the relevant metadata for the digital objects we curated, we exported the metadata Google Sheet into a CSV file. Then, using the CollectionBuilder template in GitHub sites, we uploaded our metadata and each of the objects to their relevant folders. Since we integrated into the CollectionBuilder structure, the site was built automatically from the uploaded data.
+
+All project data and metadata are stored in CSV files within the GitHub repository, making them freely accessible online through version-controlled, openly available source files. 
 Our collection has a couple of groups or audiences that could be interested in reusing our collection, those being Native Americans, researchers such as anthropologists or art historians, and anyone from the general public interested in these images. Our collection is a benefit to these groups as we have synthesized objects from different GLAMs which could act as the beginning to a bigger project collecting all artistic objects created by Native Americans in Oregon and the surrounding Pacific Northwest.
+
 
 ## Roles and Responsibilities
 
 | Group Member | Role | Responsibilities |
 |--------------|------|------------------|
-| Quinn | Project Manager | Quinn was responsible for managing the Google Drive folder, leading and coordinating communication, and submitting all our group projects. |
-| David | Collection Development Manager | David made the final call about what would be included in the collection and led the research topic selection and scope definition. |
-| Hunter | Object Preservation Manager | Hunter was responsible for overseeing the storage space and documents folder, establishing the collection's file naming standard, and ensuring backup copies are available. |
-| Anna | Metadata Manager | Anna was responsible for managing the spreadsheet and ensuring our metadata follows the Dublin Core and CollectionBuilder requirements. |
-| Conner | Repository Manager | Conner was responsible for taking notes at our meetings, leading technical troubleshooting, and managed our GitHub repository. |
+| Quinn | Project Manager | Quinn was responsible for managing the Google Drive folder, leading and coordinating communication, and submitting all our group projects. Quinn was skilled at using Teams and facilitating communication between each of us.|
+| David | Collection Development Manager | David made the final call about what would be included in the collection and led the research topic selection and scope definition. David was skilled at helping narrow our scope and making decisive, coherent calls about what to include.|
+| Hunter | Object Preservation Manager | Hunter was responsible for overseeing the storage space and documents folder, establishing the collection's file naming standard, and ensuring backup copies are available. Hunter had great organizational skills which he utilized in the folder.|
+| Anna | Metadata Manager | Anna was responsible for managing the spreadsheet and ensuring our metadata follows the Dublin Core and CollectionBuilder requirements. Anna had great attention to detail, ensuring all of the given requirements were met for the metadata.|
+| Conner | Repository Manager | Conner was responsible for taking notes at our meetings, leading technical troubleshooting, and managed our GitHub repository. Conner had a great technical skillset that he shared with all of us.|
 
 ## Data
 
