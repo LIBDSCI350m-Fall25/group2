@@ -38,7 +38,7 @@ Our project is licensed under the MIT license as open-source software.
 
 ### Documentation and Metadata
 
-Our metadata application profile can be found [here](/objects/group2_map.pdf).
+Our metadata application profile can be found [here](/objects/group2map.pdf).
 
 The metadata for each object is located in the data section of the website and is available on the Github repository. The data can be downloaded from either of these locations in csv format. The definition for each metadata field is in the data dictionary at the end of this page and in the Metadata Application Profile provided earlier.
 
