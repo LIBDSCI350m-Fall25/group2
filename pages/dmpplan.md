@@ -82,8 +82,8 @@ Definition: Where the object was created in oregon as listed by the GLAM
 - County/municipality name, city, area 
 
 - Examples (Not exclusive to these): 
-  - _westernoregon_
-  - _sauvieisland_
+  - \_westernoregon\_
+  - \_sauvieisland\_
 
 4. Date
 
