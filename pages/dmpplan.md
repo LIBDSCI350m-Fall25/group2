@@ -135,7 +135,7 @@ Our data dictionary mainly comes from CollectionBuilder's standard as provided t
 | display_template | Sets the template type used for the Item page and is used in logic to choose representations in other pages. If blank the object will default to a generic item page. |
 | image_alt_text | An appropriate textual description of the image_small representation of the item. The alt text corresponds to the image_small (not necessarily the file at object_location). This value will be used as the “alt” value of the image element, which is important for accessibility. |
 | address | The web address to the object in the GLAM. |
-| cataloger | The group member that input the object's metadata. |
-| citation | MLA citation of the object. |
+| cataloger | The group member that input the object's metadata, this was created by our group to monitor which objects were entered by which group member. |
+| citation | A field that our group made to enter the MLA citation of the object. |
 | filename | This is the digital object's filename, including the name itself as well as the object's file extension. For externally hosted items, this may be a full URL. |
-| structure | A metadata field our group created in order to have a more general category for objects to fit into. |
+| structure | A metadata field our group created in order to have a more general category for objects to fit into. Also created for our file naming standard to be consistent and easier for group members to enter. |
