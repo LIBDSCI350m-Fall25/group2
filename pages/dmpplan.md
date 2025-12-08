@@ -46,7 +46,7 @@ Our project is licensed under the MIT license as open-source software.
 
 Our metadata application profile can be found [here](/objects/group2map.pdf).
 
-The metadata for each object is located in the data section of the website and is available on the Github repository. The data can be downloaded from either of these locations in csv format. The definition for each metadata field is in the data dictionary at the end of this page and in the Metadata Application Profile provided earlier.
+The metadata for each object is located in the data section of the website and is available on the GitHub repository. The data can be downloaded from either of these locations in CSV format. The definition for each metadata field is in the data dictionary at the end of this page and in the Metadata Application Profile provided earlier.
 
 ### File Naming Standard
 
@@ -107,7 +107,7 @@ An example of our file naming standard in practice: sculpture_01_sauvieisland_18
 
 ### Storage and Backup
 
-Our project is stored on a Google drive shared amongst our group. The code for the website is stored in a Github repository and hosted on Github sheets. We also have the github repository cloned as a local git repository on a group member's computer.
+Our project is stored on a Google drive shared amongst our group. The code for the website is stored in a GitHub repository and hosted on GitHub sheets. We also have the GitHub repository cloned as a local git repository on a group member's computer.
 
 ### Data Sharing
 
@@ -120,7 +120,7 @@ Our CollectionBuilder site uses openly accessible materials, and because all ite
 
 ### Period of Data Retention
 
-Hunter Everton, the Object Preservation Manager, will check any issues raised or pull requests made after December 2025. If any of the objects are missing then please raise an issue or create a pull request on the Github repository. Hunter and Anna both have digital copies of objects on their computers as backup. 
+Hunter Everton, the Object Preservation Manager, will check any issues raised or pull requests made after December 2025. If any of the objects are missing then please raise an issue or create a pull request on the GitHub repository. Hunter and Anna both have digital copies of objects on their computers as backup. 
 
 ## Licensing and Ethical Issues
 
