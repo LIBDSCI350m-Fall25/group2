@@ -6,7 +6,7 @@ permalink: /dmpplan.html
 
 # Data Management Plan
 
-## Group 2 (Conner Birdwell, Quinn Enyart, Hunter Everton, David Horwitz, Anna Wallin)
+## Group 2 
 
 ## Project Description
 
@@ -52,13 +52,14 @@ As mentioned, the data is shared through the Github repository and the website. 
 
 ### Period of Data Retention
 
-Hunter Everton (and potentially others) will check any issues raised or pull requests made after December 2025, if any of the objects are missing then please raise an issue or create a pull request on the Github repository.
+Hunter Everton, the Object Preservation Manager, will check any issues raised or pull requests made after December 2025. If any of the objects are missing then please raise an issue or create a pull request on the Github repository. Hunter and Anna both have digital copies of objects on their computers as backup. 
 
 ## Licensing and Ethical Issues
 
-For licensing all of the objects we have collected and organized are either in the public domain, or, the GLAM did their own rights analysis on the object and found no known copyright restrictions. For ethical considerations we believe as a group that the objects should be cited according to MLA or some other guidelines even if the object is in the public domain.
+For licensing, all of the objects we have collected and organized are either in the public domain, or, the GLAM did their own rights analysis on the object and found no known copyright restrictions. We encourage those who would like to use our objects to visit the GLAM's' website which we have cited. For ethical considerations we believe as a group that the objects should be cited according to MLA or some other guidelines even if the object is in the public domain. Moreover, another ethical consideration is that the objects were created by Native groups. We believe that the rightful owners of many of these objects are the actual tribe from which they originate. Re-patriation is a topic that we are continuing to expand our knowledge about, and our digital collection aims to shed light on Native art without claiming any sort of ownership over the art. 
 
 ## Data Dictionary
+Our data dictionary mainly comes from CollectionBuilder's standard as provided to us by our instructor, Kate Thornhill. 
 
 | Field | Definition |
 |-------|------------|
