@@ -127,8 +127,6 @@ Hunter Everton, the Object Preservation Manager, will check any issues raised or
 For licensing, all of the objects we have collected and organized are either in the public domain, or, the GLAM did their own rights analysis on the object and found no known copyright restrictions. We encourage those who would like to use our objects to visit the GLAM's' website which we have cited. For ethical considerations we believe as a group that the objects should be cited according to MLA or some other guidelines even if the object is in the public domain. Moreover, another ethical consideration is that the objects were created by Native groups. We believe that the rightful owners of many of these objects are the actual tribe from which they originate. Re-patriation is a topic that we are continuing to expand our knowledge about, and our digital collection aims to shed light on Native art without claiming any sort of ownership over the art. 
 
 ## Data Dictionary
-Our data dictionary mainly comes from CollectionBuilder's standard as provided to us by our instructor, Kate Thornhill. 
-
 | Field | Definition |
 |-------|------------|
 | objectid | A unique string with no spaces or special characters that will be used as an ID in the website. Records without an objectid will not be displayed in the collection. Records with non-unique objectid will be overwritten. |
@@ -145,8 +143,8 @@ Our data dictionary mainly comes from CollectionBuilder's standard as provided t
 | rightsstatement | A standardized rights statement, presented as a creativecommons.org URI or rightsstatements.org URI |
 | display_template | Sets the template type used for the Item page and is used in logic to choose representations in other pages. If blank the object will default to a generic item page. |
 | image_alt_text | An appropriate textual description of the image_small representation of the item. The alt text corresponds to the image_small (not necessarily the file at object_location). This value will be used as the “alt” value of the image element, which is important for accessibility. |
-| address | The web address to the object in the GLAM. |
-| cataloger | The group member that input the object's metadata, this was created by our group to monitor which objects were entered by which group member. |
-| citation | A field that our group made to enter the MLA citation of the object. |
+| address | The web address to the object in the GLAM. This is not in CollectionBuilder standards but we wanted to give proper access to where we found the objects.|
+| cataloger | The group member that input the object's metadata, this was created by our group to monitor which objects were entered by which group member. This is another field we added outside of CollectionBuilder requirements because this is a group collection and we want to note who collected which object.|
+| citation | Another field that our group made to enter the MLA citation of the object. |
 | filename | This is the digital object's filename, including the name itself as well as the object's file extension. For externally hosted items, this may be a full URL. |
 | structure | A metadata field our group created in order to have a more general category for objects to fit into. Also created for our file naming standard to be consistent and easier for group members to enter. |
