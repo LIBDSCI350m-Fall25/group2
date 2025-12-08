@@ -1,6 +1,25 @@
 # Native American Art of the Pacific Northwest
 
-### Created by Group 2 (Conner Birdwell, Quinn Enyart, Hunter Everton, David Horwitz, Anna Wallin) for DSCI/LIB 350M at the University of Oregon
+### Created by Group 2 for DSCI/LIB 350M at the University of Oregon
 
-This digital collection is focused on the topic of Native Americans in the contemporary state of Oregon and general Pacific Northwest region. The collection is themed around artworks created by Natives among various tribes in these areas. The goal is to show their creativity and cultural traditions in a way that reflects their voices and perspectives. The artwork presented comes from various media, from textiles to wooden sculptures and pencil sketches. The topic of Native Americans in Oregon was due to the personal connection some of our group members have to Native American communities out East. We chose to theme our collection around Native art as we felt that documentation of Native American history and their lives has been centered on the colonial documenters rather than the Native Americans being documented themselves. In many museum exhibits or history projects, Native Americans are often presented through the eyes of outsiders. We thought that collecting the objects of Native Americans directly centers the Native Americans themselves and let the objects they created speak for themselves. The GLAMs that we have used for our collection so far include: The Portland Art Museum, Hallie Ford Museum of Art, The Metropolitan Museum of Art, and the University of Oregon Museum of Natural and Cultural History.
+**Course:** Humanities Research Data Management (DSCI/LIB 350M) at University of Oregon
 
+**Date of Course:** Fall 2025
+
+**Course Description:** 
+
+This course provides students with theoretical and practical experience in collecting, processing, archiving, and publishing humanities data (images, video, sound, text, maps, etc.) gathered from galleries, libraries, archives, and museums (GLAMs). With the goal of building thematic digital collections as researchers, students will learn digital methodologies focusing on the technical, legal, ethical, and social aspects of working with humanities research data throughout its curation lifecycle. This includes hands-on experience finding, assessing, organizing, and reformatting data; creating and remediating descriptive metadata; evaluating and determining copyright and licensing; writing a data management plan using the standards set by the National Endowment for the Humanities, and sharing thematic research digital collections using GitHub and the opensource platform CollectionBuilder (Taken by Kate Thornhill’s Syllabus)
+
+**Creators of Repository:** Quinn Enyart, David Horwitz, Hunter Everton, Anna Wallin, Conner Birdwell
+
+**Repository Address:** Our repository can be found [here](https://libdsci350m-fall25.github.io/group2/)
+
+**Collection Title:** Native American Art of Oregon
+
+**Collection Description:** 
+Our digital collection is focused on the topic of Native Americans in the contemporary state of Oregon and the greater Pacific Northwest. Our collection is themed around artworks created by Natives among various tribes in these areas with the main goal of amplifying their voices and perspectives. Our perceived main audience is Native groups who could use this to support cultural preservation or community education about their prominence and presence in the Pacific Northwest. Another intended audience for this collection is researchers such as anthropologists, art historians, or historians who are interested in analyzing Native art or focused on re-patriation of Native objects.
+
+**Description of Data Management Plan (DMP):**
+Our Data Management Plan highlights our project description from a technical standpoint as well as each of our group members’ data management responsibilities. The plan also describes expected data types, data formats, data storage and preservation strategies. We provide a data dictionary as well as access to our metadata application plan. 
+
+**DMP Address:** The project's DMP can be viewed [here](https://libdsci350m-fall25.github.io/group2/dmpplan.html)
