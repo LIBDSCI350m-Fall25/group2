@@ -113,6 +113,11 @@ Our project is stored on a Google drive shared amongst our group. The code for t
 
 As mentioned, the data is shared through the Github repository and the website. The data used for this project may be used freely under the MIT license, and the objects can be used with proper attribution to the source GLAM. We have given citations for our project so we recommend using those for documentation of the objects, should they be used in another project.
 
+## Privacy and Security Considerations
+
+Our CollectionBuilder site uses openly accessible materials, and because all items are stored in GitHub and displayed publicly online, we ensured that no sensitive personal information, restricted cultural materials, or copyrighted content without permission was included. Because none of our items have restricted access we determined our collection is appropriate for open online publication. As a security measure, all of our files are hosted through GitHub Pages, which provides controlled versioning and stable public access without exposing editable backend data.
+
+
 ### Period of Data Retention
 
 Hunter Everton, the Object Preservation Manager, will check any issues raised or pull requests made after December 2025. If any of the objects are missing then please raise an issue or create a pull request on the Github repository. Hunter and Anna both have digital copies of objects on their computers as backup. 
