@@ -42,6 +42,63 @@ Our metadata application profile can be found [here](/objects/group2_map.pdf).
 
 The metadata for each object is located in the data section of the website and is available on the Github repository. The data can be downloaded from either of these locations in csv format. The definition for each metadata field is in the data dictionary at the end of this page and in the Metadata Application Profile provided earlier.
 
+### File Naming Standard
+
+All file names followed our naming standard:
+
+1. Structure of Art 
+
+Definition: The structure that the artwork takes on in form
+
+- Choose from: Basket, Painting, Sculpture, Textile, Bag, Clothing, Drawing
+
+- Examples:
+  - basket_
+  - painting_
+  - sculpture_
+  - textile_
+  - bag_
+  - clothing_
+  - drawing_
+
+2. Numbering
+
+Definition: A number identifying the piece of art as unique from the others of the same type
+
+- We will not include different angles of the art, so sequencing represents where it is in the collection (ie: sculpture_01_ is the first sculpture added)
+
+- Examples (Not exclusive to these):
+  - sculpture_01_
+  - bag_01_
+  - basket_01_
+  - basket_02_
+  - sculpture_02_
+  - bag_02_
+
+3. Location of Creation
+
+Definition: Where the object was created in oregon as listed by the GLAM
+
+- County/municipality name, city, area 
+
+- Examples (Not exclusive to these): 
+  - _westernoregon_
+  - _sauvieisland_
+
+4. Date
+
+Definition: Date of creation of the object 
+
+- Format: Year. 
+
+- If ca./circa [year], use [year] only
+
+- Example: 
+  - _1900
+  - _1850
+
+An example of our file naming standard in practice: sculpture_01_sauvieisland_1830.jpg
+
 ### Storage and Backup
 
 Our project is stored on a Google drive shared amongst our group. The code for the website is stored in a Github repository and hosted on Github sheets. We also have the github repository cloned as a local git repository on a group member's computer.
